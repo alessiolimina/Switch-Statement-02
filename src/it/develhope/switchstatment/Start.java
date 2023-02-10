@@ -28,13 +28,14 @@ public class Start {
 
             /**
              * Declaring the variables
+             * userString is a string typed by the user as a command
              */
 
             Scanner scanner = new Scanner(System.in);
             String userString = scanner.nextLine();
 
             /**
-             * Using a SWITCH state to verify and apply the command
+             * Using a SWITCH statement to verify and apply the command
              */
 
             switch (userString) {
