@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"it.develhope.switchstatment","c":"Start","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"it.develhope.switchstatment","c":"Start","l":"Start()","u":"%3Cinit%3E()"}];updateSearchResults();
