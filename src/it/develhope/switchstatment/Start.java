@@ -1,5 +1,10 @@
 package it.develhope.switchstatment;
 
+/**
+ * This is a Tester class
+ * @author alessiolimina
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
